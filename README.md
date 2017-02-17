@@ -13,6 +13,7 @@ Auf dem Bildschirm soll eine Raute aus Buchstaben ausgegeben werden, die eine va
      A
 
  ### C-Diamant
+ 
       A
      B B
     C   C
