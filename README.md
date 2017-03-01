@@ -1,4 +1,4 @@
-# Coding Dojo - TDD
+ # Coding Dojo - TDD
 
 ## Test driven developement - TDD
 Zu deutsch auch testgetriebene Entwicklung beschreibt einen Arbeitsablauf, für den vor allem Disziplin verlangt wird, der einen auf der anderen Seite mit einer schnellen Feedbackschleife unterstützt und mitunder auch sehr viel Spaß bereiten kann. An einem recht einfachen Beispiel soll dieser Workflow kennengelernt werden.
@@ -12,7 +12,7 @@ Auf dem Bildschirm soll eine Raute aus Buchstaben ausgegeben werden, die eine va
     B B
      A
 
-### C-Diamant
+### C-Diamanten
 
       A
      B B
